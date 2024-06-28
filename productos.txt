@@ -1,0 +1,3 @@
+{'nombre': 'papas lauys', 'categoria': 'comida', 'cantidad': 3, 'precio': 49.47957830258964}
+{'nombre': 'ramitas evercrips', 'categoria': 'comida', 'cantidad': 6, 'precio': 206.76541312739033}
+{'nombre': 'nissan np300', 'categoria': 'vehiculo', 'cantidad': 5, 'precio': 294.9975461221939}
